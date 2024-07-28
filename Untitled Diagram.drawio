@@ -48,9 +48,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tDkzWNkyZ2SAqoMp5uIW-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tDkzWNkyZ2SAqoMp5uIW-14" target="tDkzWNkyZ2SAqoMp5uIW-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="tDkzWNkyZ2SAqoMp5uIW-14" value="The number you though is&lt;br&gt;&amp;nbsp;&quot;M&quot; and I guessed it in &quot;t&quot; attempts" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="234.5" y="640" width="221" height="60" as="geometry" />
         </mxCell>
@@ -68,6 +65,9 @@
         <mxCell id="tDkzWNkyZ2SAqoMp5uIW-18" value="Is M=0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="72" y="737" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="a8N39vRBGdJpf4fvNVRR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tDkzWNkyZ2SAqoMp5uIW-19" target="tDkzWNkyZ2SAqoMp5uIW-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tDkzWNkyZ2SAqoMp5uIW-19" value="The number you though is&lt;br&gt;&amp;nbsp;&quot;M&quot; and I guessed it in &quot;t&quot; attempts" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="234.5" y="747" width="221" height="60" as="geometry" />
         </mxCell>
@@ -78,6 +78,9 @@
           <mxGeometry x="-0.2114" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="a8N39vRBGdJpf4fvNVRR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" edge="1" parent="1" source="tDkzWNkyZ2SAqoMp5uIW-14" target="tDkzWNkyZ2SAqoMp5uIW-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
